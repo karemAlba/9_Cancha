@@ -1,0 +1,58 @@
+.padre{
+	background-color: green;
+	padding: 50px;
+	overflow: auto;
+}
+
+.cancha{
+	padding: 40px;
+	border: white solid 2px;
+	height: 400px;
+}
+
+.porteria{
+	border: white solid 2px;
+	height: 350px;
+	width: 200px;
+	display: inline-block;
+	position: absolute;
+}
+
+.centro{
+
+	border-radius: 180px;
+	padding: 40px;
+	border:2px white solid;
+	display: inline-block;
+	position: absolute;
+	left:500px;
+	bottom: 300px;
+	height: 150px;
+	width: 150px;
+
+}
+
+#izq{
+	left: 1016px;
+}
+
+#der{
+	right: 1016px;
+}
+
+.uno{
+	position: absolute;
+	left: 700px;
+}
+
+.dos{
+	position: absolute;
+	right: 300px;
+	top:400px;
+}
+
+.tres{
+	position: absolute;
+	left: 250px;
+	top:100px;
+}
